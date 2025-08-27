@@ -1,0 +1,16 @@
+*{ background-image:url"C:\Users\moon\OneDrive\Pictures\Screenshots 1";
+    background-repeat :no-repeat;}
+   .p a {height:100%;
+        width : 150%;
+        text-align : center;
+        Padding : 50%;
+        margin : 30%;
+    }
+        #h{
+            height : 65;
+            color: aqua;
+            background-color: bisque;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+        }
